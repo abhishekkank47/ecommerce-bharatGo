@@ -4,8 +4,8 @@ A full-stack e-commerce application built with the **MERN stack**. This app incl
 
 ## 🔗 Live Links
 
-- **Frontend (Vercel)**: [View Site](https://your-vercel-link.vercel.app)
-- **Backend (Render)**: [API Endpoint](https://your-render-link.onrender.com)
+- **Frontend (Vercel)**: [View Site](https://ecommerce-bharatgo.vercel.app/)
+- **Backend (Render)**: [API Endpoint](https://ecommerce-bharatgo.onrender.com)
 
 ---
 
@@ -55,6 +55,5 @@ A full-stack e-commerce application built with the **MERN stack**. This app incl
 
 ---
 
-## 📂 Project Screenshots
 
 
