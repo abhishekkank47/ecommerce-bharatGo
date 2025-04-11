@@ -54,6 +54,18 @@ A full-stack e-commerce application built with the **MERN stack**. This app incl
 | Vercel       | Frontend Hosting   |
 
 ---
+## 🚀 Getting Started (For Local Setup)
 
+### Backend And Frontend (.env file needed to run)
+```bash
+cd Backend
+npm install
+npm start
+
+
+
+cd Frontend
+npm install
+npm run dev
 
 
