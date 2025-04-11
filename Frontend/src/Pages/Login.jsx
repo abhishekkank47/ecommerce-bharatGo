@@ -17,7 +17,7 @@ const Login = () => {
   
       //TO GET REGISTERED DATA FOR LOGIN FRONTEND FROM BACKEND DATABASE
       try {
-        const reciveData = await axios.post(`http://localhost:8000/api/v1/auth/login`,{ email, password})
+        const reciveData = await axios.post(`https://ecommerce-bharatgo.onrender.com/api/v1/auth/login`,{ email, password})
         if (reciveData?.data?.success) {
           
           setAuth({

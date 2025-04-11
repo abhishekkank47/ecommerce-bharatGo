@@ -26,7 +26,7 @@ const Register = () => {
 
     //TO SUBMIT DATA FRONTEND TO BACKEND DATABASE
     try {
-      const sendData = await axios.post(`http://localhost:8000/api/v1/auth/register`,{ fullName, phone, email, address, pin, password, confirmPassword })
+      const sendData = await axios.post(`https://ecommerce-bharatgo.onrender.com/api/v1/auth/register`,{ fullName, phone, email, address, pin, password, confirmPassword })
       if(sendData?.data?.success){
         toast.success("Registered Successfully !, login to continue")
         navigate("/login")}
